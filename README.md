@@ -1,4 +1,4 @@
-# Urban-Precipitation-Article
+# Urbanization-Induced Changes in Convective and Frontal Precipitation Events in Ankara
 
 ## Authors
 Berkay Dönmez - Istanbul Technical University <br> 
