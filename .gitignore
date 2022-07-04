@@ -1,0 +1,12 @@
+/data
+/data_cleaning
+.ipynb_checkpoints
+analysis.ipynb
+/old_codes
+sort_imports.py
+utils/__pycache__/
+*.pyc
+*.pyo
+*.docx
+*.tmp
+*.pdf
