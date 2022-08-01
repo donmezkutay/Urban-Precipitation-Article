@@ -1,10 +1,11 @@
 # Urbanization-Induced Changes in Convective and Frontal Precipitation Events in Ankara
 
 ## Authors
-Berkay Dönmez - Istanbul Technical University <br> 
-Kutay Dönmez - Istanbul Technical University <br>
-Deniz Diren Üstün - Istanbul Technical University <br>
-Prof. Dr. Yurdanur Ünal - Istanbul Technical University <br>
+***[Istanbul Technical University](https://www.itu.edu.tr/)***
+[Berkay Dönmez](https://scholar.google.com/citations?hl=tr&user=18BYP_UAAAAJ) <br> 
+Kutay Dönmez <br>
+[Deniz Diren Üstün](https://avesis.itu.edu.tr/dirend/deneyim) <br>
+[Yurdanur Ünal](https://scholar.google.com/citations?hl=tr&user=YZ_xUwUAAAAJ) <br>
 
 *Faculty of Aeronautics and Astronautics, Department of Meteorological Engineering, Istanbul Technical University, Maslak, 34469 Istanbul, Turkey*
 
