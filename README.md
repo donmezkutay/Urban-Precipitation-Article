@@ -6,14 +6,20 @@ Kutay Dönmez - Istanbul Technical University <br>
 Deniz Diren Üstün - Istanbul Technical University <br>
 Prof. Dr. Yurdanur Ünal - Istanbul Technical University <br>
 
+*Faculty of Aeronautics and Astronautics, Department of Meteorological Engineering, Istanbul Technical University, Maslak, 34469 Istanbul, Turkey*
+
 ## Abstract
-Urban land-use characteristics have been demonstrated to alter precipitation distribution and duration.  The lack of modeling-based examination of the interaction between urbanization and precipitation in Turkey, however, limits the understanding of urban-precipitation features. Here, we investigate the impact of the urban signature on two specific precipitation events in Ankara, the second-crowdest city in Turkey, using the Weather Research and Forecasting (WRF) model. Two rainfall occurrences with different synoptic backgrounds were selected from the spring and summer seasons, considering the intensity of the urban heat island (UHI) over the metropolitan area. Integrating the CORINE land cover data into the WRF model, we conceptualize urban and nourban configurations and run three simulations for each event using three different microphysics parameterization schemes and ensemble-average them. We observe that the impact of the urban signature on the springtime and summertime precipitation occurrences are different from each other. The urban scenario has boosted (suppressed) the precipitation amount by 14% (18%) over (upwind of) the city center, whereas there is almost no change observed for the springtime event. Consistent with the synoptic background of the selected events and the seasonal UHI climatology of the region, the increase in temperature (1.2°C) and sensible heat flux (+40W/m2) with urban land-use is greater for the summertime rainfall event. Our findings facilitate a better understanding of the alterations to individual precipitation periods in populated urban areas.
+Urbanization has been demonstrated to alter precipitation amount and distribution. However, there is a lack of modeling-based examination of the interaction between urbanization and precipitation in Turkey. Here, we analyze the urban impacts on two precipitation events with different synoptic backgrounds in Ankara using the Weather Research and Forecasting (WRF) model. The rainfall occurrences were selected considering the intensity of the urban heat island (UHI) over the urbanized area. We conceptualize urban and nourban configurations using the CORINE land cover (CLC) data and create ensemble simulations for each event. Our findings underline the dissimilarity in the urban impacts on the precipitation pattern and magnitude of the selected events. The urban scenario suppressed the rainfall over the downwind and upwind of the urban center by more than 10 mm for the summertime event, reshaping the rainfall pattern to be more spatially distributed and protracting the rainfall duration. By contrast, the urban impact on the springtime event is less discernible, with less than 1% change in the rainfall amounts over the urban center. Strong synoptic forcing and significantly less UHI magnitude for the springtime event are responsible for the masked urban impacts on precipitation. Regardless of the synoptic background, the urban land use introduced changes to the surface energy balance, reducing the moisture content over the highly urbanized area.
+
+## Keywords
+Urbanization impact, Urban heat island intensity, Precipitation modification, Land use change, WRF model, Ankara
+
 
 ## Figure Codes
-- Figure 1 to 12
+- Figure 1 to 9
 
 ## Related Datasets
-- No datasets are provided, only figure codes.
+- No datasets are provided.
 
 [Article Page]: <https://donmezkutay.github.io/visjobs/>
 
