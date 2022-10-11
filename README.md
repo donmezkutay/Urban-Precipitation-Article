@@ -1,7 +1,7 @@
 # Urbanization-induced changes in convective and frontal precipitation events in ankara
 
 ## Journal <br>
-[Elsevier - Urban Climate]: <https://www.sciencedirect.com/journal/urban-climate> <br>
+[Elsevier - Urban Climate](https://www.sciencedirect.com/journal/urban-climate) <br>
 
 ## Authors
 [Berkay Dönmez](https://scholar.google.com/citations?hl=tr&user=18BYP_UAAAAJ) <br> 
@@ -29,7 +29,8 @@ Urbanization impact, Urban heat island intensity, Heavy precipitation, Land use 
 ## Related Datasets
 - We have shared the link to our code in the Appendix section of our manuscript. Data will be made available upon request (except the station observation data).
 
-[Article Page]: <https://www.sciencedirect.com/science/article/abs/pii/S2212095522002346> <br>
+## Links
+[Article Page](https://www.sciencedirect.com/science/article/abs/pii/S2212095522002346) <br>
 
-[50 day free article-link]: <https://authors.elsevier.com/a/1fuc~7s~EVp5Mg>
+[50 day free article-link](https://authors.elsevier.com/a/1fuc~7s~EVp5Mg) <br>
 
