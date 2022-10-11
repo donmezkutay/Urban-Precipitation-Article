@@ -1,5 +1,8 @@
 # Urbanization-induced changes in convective and frontal precipitation events in ankara
 
+## Journal
+[*Elsevier - Urban Climate*]: <https://www.sciencedirect.com/journal/urban-climate>
+
 ## Authors
 [Berkay Dönmez](https://scholar.google.com/citations?hl=tr&user=18BYP_UAAAAJ) <br> 
 [Kutay Dönmez](https://scholar.google.com/citations?hl=tr&user=tiNC0ukAAAAJ) <br>
